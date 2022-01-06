@@ -1,6 +1,6 @@
 .menu {
     list-style: none;
-    font-family: P22 DeStijl Regular;
+    font-family: 'Kanit', sans-serif;
     position: fixed;
     top: 0px;
     right: 0px;
@@ -38,7 +38,7 @@ body {
 }
 
 .page {
-    font-family: P22 DeStijl Regular;
+    font-family: 'Kanit', sans-serif;
     font-size: 68px;
     position: absolute;
     z-index: 10;
@@ -52,7 +52,7 @@ body {
     z-index: 10;
     background-color: dodgerblue;
     top: 70px;
-    left: 15px;
+    left: 28px;
     height: 10px;
     width: 200px;
 }
@@ -101,9 +101,10 @@ body {
     height: fit-content;
     width: fit-content;
     text-align: center;
+    padding: 10px;
     background: linear-gradient(lightgray, gray);
     box-shadow: 5px 5px 15px black;
-    margin: 15px;
+    margin: 20px;
     display: inline-block;
     transition: transform 0.3s;
 }
@@ -117,7 +118,7 @@ body {
 }
 
 .info-header {
-    font-family: P22 DeStijl Regular;
+    font-family: 'Quantico';
     font-size: 36px;
 }
 
@@ -226,7 +227,7 @@ body {
 }
 
 .dev-header {
-    font-family: power red and green;
+    font-family: 'Kanit', sans-serif;
     font-size: 36px;
 }
 
